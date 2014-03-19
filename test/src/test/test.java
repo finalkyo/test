@@ -11,6 +11,7 @@ public class test {
 		System.out.print(result);
 		System.out.print("test");
 		System.out.print("test1");
+		System.out.print("test2");
 	}
 
 }
