@@ -10,6 +10,7 @@ public class test {
 		// TODO Auto-generated method stub
 		System.out.print(result);
 		System.out.print("test");
+		System.out.print("test1");
 	}
 
 }
