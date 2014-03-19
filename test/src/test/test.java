@@ -9,6 +9,7 @@ public class test {
         boolean result = Pattern.matches(patternStop, "Í£ÏÂÀ´"); 
 		// TODO Auto-generated method stub
 		System.out.print(result);
+		System.out.print("test");
 	}
 
 }
